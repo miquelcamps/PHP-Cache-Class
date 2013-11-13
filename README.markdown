@@ -5,7 +5,7 @@
 * Miquel Camps Orteza
 * [@miquelcamps](https://twitter.com/miquelcamps)
 
-#### Connection
+#### Initialize
 
 ```php
 require 'cache.php';
