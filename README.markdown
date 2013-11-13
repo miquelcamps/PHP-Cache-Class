@@ -31,7 +31,7 @@ if( $content ){
 $cache->start();
 ```
 
-#### Save cache and show buffer
+#### Save cache and show buffer data
 
 ```php
 $cache->finish();
